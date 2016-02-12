@@ -1,9 +1,9 @@
-# Song Genere Recognition
+# Song Genre Recognition
 
 Code written in Matlab 2012R.
 
 The dataset is from GTZAN's music collection available at http://marsyasweb.appspot.com/download/data_sets.
-The project classifies a song into 10 generes based on the input. Mean and covariance of the MFCCs are
+The project classifies a song into 10 genres based on the input. Mean and covariance of the MFCCs are
 chosen as the features extracted. The model used for classification is KNN(K Nearest Neighbours).
 
 To run the program:
